@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @matthewjhinkleman
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning computer science via EdX
